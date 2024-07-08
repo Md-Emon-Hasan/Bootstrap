@@ -1,7 +1,3 @@
-Creating a README file for a Bootstrap project typically involves highlighting key information about the project, its purpose, how to use it, and any other relevant details. Here's a template you can use as a starting point:
-
----
-
 # Bootstrap Project
 
 Welcome to the Bootstrap Project repository!
